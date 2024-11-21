@@ -1,4 +1,4 @@
--👋 Hi, I’m @surendra-rao
+- 👋 Hi, I’m @surendra-rao
 - 👀 Passionate Python Developer with a focus on building scalable web applications and APIs. Always eager to learn new technologies and optimize backend systems.
 - 🌱 Currently working as a Python Developer at Gameopedia with 2.6+ years of experience in backend development, cloud services (AWS), and CI/CD.
 - 💼 I’ve worked on projects involving Django, FastAPI, Flask, and cloud-based solutions, including building APIs, data processing tools, and chat application with websockets.
