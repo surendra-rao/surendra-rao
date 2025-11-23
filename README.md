@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @surendra-rao
-- 👀 Passionate Python Developer with a focus on building scalable web applications and APIs. Always eager to learn new technologies and optimize backend systems.
-- 🌱 Currently working as a Python Developer at Gameopedia with 3+ years of experience in backend development, cloud services (AWS), and CI/CD.
-- 💼 I’ve worked on projects involving Django, FastAPI, Flask, and cloud-based solutions, including building APIs, data processing tools, and chat application with websockets.
+- 👀 Data Engineer with Full Stack Capabilities, focused on building end-to-end data solutions—from scalable data pipelines and backend $\text{APIs}$ to user-facing front-end applications ($\text{React JS}$). Always driven to optimize systems and deliver comprehensive solutions.
+- 🌱 Currently working as a Data Engineer at Randomtrees, leveraging 3+ years of total experience in backend development, robust data infrastructure, and full $\text{CI}/\text{CD}$ lifecycle management.
+- 💼 💼 My core technical stack includes Python ($\text{Django}$, $\text{FastAPI}$, $\text{Flask}$), $\text{React JS}$, and $\text{SQL}$. I have hands-on experience with cloud services ($\text{AWS}$ and $\text{Azure}$), $\text{CI}/\text{CD}$ tools ($\text{Jenkins}$), and building applications including data processing tools and real-time solutions with $\text{Websockets}$..
 - 📫 Feel free to reach out via email: surendrarao012@gmail.com
 
 <!---
